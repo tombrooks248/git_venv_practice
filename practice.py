@@ -8,4 +8,7 @@ import datetime
 def add_nums(A, B):
     return A + B
 
+# fuild function two
 
+def minus_nums(A, B):
+    return A - B
